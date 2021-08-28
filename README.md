@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install fcole90/quack/<formula>`
+`brew install fcole90/quack/quack`
 
-Or `brew tap fcole90/quack` and then `brew install <formula>`.
+Or `brew tap fcole90/quack` and then `brew install quack`.
 
 ## Documentation
 
